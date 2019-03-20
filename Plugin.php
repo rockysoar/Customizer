@@ -128,7 +128,7 @@ class Plugin extends Base
     
     public function getPluginAuthor()
     {
-        return 'Craig Crosby';
+        return 'Junhua Zhang base on Craig Crosby';
     }
     
     public function getPluginVersion()
@@ -138,7 +138,7 @@ class Plugin extends Base
     
     public function getPluginHomepage()
     {
-        return 'https://github.com/creecros/Customizer';
+        return 'https://github.com/rockysoar/Customizer';
     }
     
     public function getCompatibleVersion()
