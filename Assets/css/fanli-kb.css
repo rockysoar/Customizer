@@ -1,0 +1,33 @@
+#board-container table {
+    border-collapse: separate;
+    border-spacing: 15px 0;
+}
+#board-container table th a{
+    color:#CCC;
+}
+#board-container table td {
+    border-left:1px solid #e5e5e5;
+    border-right:1px solid #e5e5e5;
+    min-height:500px;
+}
+
+#board th.board-column-header {
+    width: 240px;
+}
+
+.board-column-header {
+    width: initial;
+    /* background: #c4c4c4; */
+    background: #fafafa;
+    border-top: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    margin: 0;
+    padding: 12px;
+    font-size: 16px;
+}
+
